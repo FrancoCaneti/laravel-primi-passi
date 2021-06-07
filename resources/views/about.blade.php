@@ -12,13 +12,14 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-image: linear-gradient(to right, white 10% , crimson 70% );
-                color: silver;
+                background-image: linear-gradient(to right, #0047ab 50%,white );
+                color: #f3bf3e;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
                 height: 100vh;
                 margin: 0;
             }
+
             .content {
                 text-align: center;
                 vertical-align:center
@@ -29,15 +30,12 @@
                 
             }
 
-          
-
-          
         </style>
     </head>
     <body>
-            <div class="content">
-                <div class="title m-b-md">
-                   Benvenuti nel fantastico mondo di  Laravel
+            <div class="content ">
+                <div class="title">
+                   My about
                 </div>
     </body>
 </html>
